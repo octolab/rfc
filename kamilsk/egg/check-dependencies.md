@@ -22,3 +22,8 @@ $ egg deps check version
 # | go.octolab.org/toolkit/cli | v0.0.4  | v0.0.4 |
 # +----------------------------+---------+--------+
 ```
+3. Use policy to highlight problems
+```bash
+$ egg deps check --policy policy.yml license
+$ egg deps check --policy policy.yml version
+```

@@ -1,7 +1,11 @@
-> # 👨‍⚖️ Tablo
+> # 👨‍⚖️ Request for Comments
 >
-> Official RFCs and proposals for changes to all OctoLab's projects.
+> Design documents and enhancement proposals.
 
----
+## 🎁 Resources
 
-made transparent with ❤️ for everyone
+- [Go Project Design Documents](https://github.com/golang/proposal).
+- [Kubernetes Enhancement Proposals](https://github.com/kubernetes/enhancements).
+- [Python Enhancement Proposals](https://www.python.org/dev/peps/).
+
+<p align="right">made with ❤️ for everyone</p>

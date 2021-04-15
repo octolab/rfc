@@ -12,4 +12,9 @@
 - [Linkerd RFCs](https://github.com/linkerd/rfc).
 - [Concourse RFCs](https://github.com/concourse/rfcs).
 
+## 🌱 Useful
+
+- [Open Mind](https://github.com/kamilsk/kamilsk/tree/master/notes).
+- [Under the Hood](https://github.com/under-the-hood).
+
 <p align="right">made with ❤️ for everyone</p>
